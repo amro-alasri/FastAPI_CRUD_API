@@ -15,13 +15,13 @@ This is a simple FastAPI application that provides CRUD (Create, Read, Update, D
 To install the FastAPI CRUD API, follow these steps:
 
 1. Clone the repository:
-   '''bash
+   ```bash
    git clone git@github.com:amro-alasri/FastAPI_CRUD_API.git
-   '''
+   ```
 2. Install the dependencies:
-   '''bash
+   ```bash
    pip install -r requirements.txt
-   '''
+   ```
 
 ## Usage
 
@@ -30,9 +30,9 @@ To run the FastAPI application, follow these steps:
 1. Open a terminal window and navigate to the directory where you cloned the repository.
 2. Run the following command:
 
-   '''bash
+   ```bash
    uvicorn main:app --reload
-   '''
+   ```
 
 3. Open your browser and navigate to:
 
